@@ -5,9 +5,9 @@
 > "每次浪费一美元，就是让我们的顾客多花一美元。" —— 山姆·沃尔顿
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将山姆·沃尔顿的零售智慧与节约哲学蒸馏为 Claude Code skill，用朴素务实的视角帮你找到规模效应的杠杆点。**
+**将山姆·沃尔顿的零售智慧与节约哲学蒸馏为 Agent Skill（Claude Code 等客户端可用），用朴素务实的视角帮你找到规模效应的杠杆点。**
 
 </div>
 
@@ -63,7 +63,7 @@ npx skills add nuwa-skills/walton-skill
 
 ```
 walton-skill/
-├── SKILL.md                        # Claude Code skill 主文件
+├── SKILL.md                        # Agent Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
